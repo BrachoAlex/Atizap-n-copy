@@ -1,0 +1,67 @@
+{
+    "data":[
+        {
+            "mac":"00:00:00:00:00:00",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.1",
+            "total":"10 MB",
+            "dispositivosAsociados":"C0:00:00:00:00:00",
+            "tiempoConexion":"00:10:00"
+        },
+        {
+            "mac":"00:00:00:00:00:01",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.2",
+            "total":"15 MB",
+            "dispositivosAsociados":"C0:00:00:00:00:01",
+            "tiempoConexion":"10:10:00"
+        },
+        {
+            "mac":"00:00:00:00:00:02",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.3",
+            "total":"100 MB",
+            "dispositivosAsociados":"C0:00:00:00:00:02",
+            "tiempoConexion":"00:10:00"
+        },
+        {
+            "mac":"00:00:00:00:00:03",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.4",
+            "total":"1 GB",
+            "dispositivosAsociados":"C0:00:00:00:00:03",
+            "tiempoConexion":"00:10:00"
+        },
+        {
+            "mac":"00:00:00:00:00:04",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.5",
+            "total":"10 MB",
+            "dispositivosAsociados":"C0:00:00:00:00:04",
+            "tiempoConexion":"00:10:00"
+        },
+        {
+            "mac":"00:00:00:00:00:05",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.6",
+            "total":"10 MB",
+            "dispositivosAsociados":"C0:00:00:00:00:05",
+            "tiempoConexion":"08:10:00"
+        },
+        {
+            "mac":"00:00:00:00:00:06",
+            "conexion":"inalambrico",
+            "ssid":"Atizapan Conectado",
+            "ip":"10.1.0.7",
+            "total":"10 MB",
+            "dispositivosAsociados":"C0:00:00:00:00:06",
+            "tiempoConexion":"00:10:00"
+        }
+    ]
+}

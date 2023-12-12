@@ -1,0 +1,60 @@
+{
+    "data":[
+        {
+            "state": "En línea",
+	        "modelo":"GWN7630LR",
+            "mac":"C0:74:AD:B0:E5:20",
+            "ipv4":"192.168.1.65",
+            "ipv6":"2806:105e:c:1616:c274:adff:feb0:e520",
+            "fw":"1.0.23.24",
+            "tiempoEjecucion":"28d 8h 27m",
+            "uso":"1.2 GB"
+        },
+
+        {
+            "state": "En línea",
+	        "modelo":"GWN7630LR",
+            "mac":"C0:74:AD:B0:E4:38",
+            "ipv4":"192.168.1.66",
+            "ipv6":"2806:105e:c:1616:c274:adff:feb0:e438",
+            "fw":"1.0.23.24",
+            "tiempoEjecucion":"28d 9h 12m",
+            "uso":"811.82 MB"
+        },
+
+        {
+            "state": "Sin Conexión",
+	        "modelo":"GWN7630LR",
+            "mac":"C0:74:AD:97:49:30",
+            "ipv4":"192.168.1.65",
+            "ipv6":"2806:104e:11:2fc2:c274:adff:fe97:4930",
+            "fw":"1.0.23.22",
+            "tiempoEjecucion":"3d 2h 28m",
+            "uso":"—"
+        },
+
+        {
+            "state": "En línea",
+	        "modelo":"GWN7630LR",
+            "mac":"C0:74:AD:97:5D:28",
+            "ipv4":"192.168.1.242",
+            "ipv6":"2806:104e:11:9f12::5",
+            "fw":"1.0.23.24",
+            "tiempoEjecucion":"40d 13h 1m",
+            "uso":"1.43 GB"
+        },
+
+        {
+            "state": "En línea",
+	        "modelo":"GWN7630LR",
+            "mac":"C0:74:AD:97:5C:64",
+            "ipv4":"192.168.1.252",
+            "ipv6":"2806:104e:11:a9ba::5",
+            "fw":"1.0.23.24",
+            "tiempoEjecucion":"58d 11h",
+            "uso":"58d 11h"
+        }
+
+    ]
+    
+}

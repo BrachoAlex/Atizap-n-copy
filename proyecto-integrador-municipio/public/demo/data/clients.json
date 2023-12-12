@@ -1,0 +1,42 @@
+{"data":[
+    {
+        "no": 1,
+        "mac": "2A:79:93:2D:6D:F2",
+        "nombre": "OPPO-...",
+        "total": "1.07 GB",
+        "upload": "28.33 MB"
+
+    },
+    {
+        "no": 2,
+        "mac": "2A:79:93:2D:6D:F2",
+        "nombre": "---",
+        "total": "1.07 GB",
+        "upload": "39.33 MB"
+
+    },
+    { 
+        "no": 3,
+        "mac": "2A:79:93:2D:6D:F2",
+        "nombre": "---",
+        "total": "1.07 GB",
+        "upload": "21.18 MB"
+
+    },
+    { 
+        "no": 4,
+        "mac": "2A:79:93:2D:6D:F2",
+        "nombre": "OPPO-...",
+        "total": "1.07 GB",
+        "upload": "35.39 MB"
+
+    },
+    { 
+        "no": 5,
+        "mac": "2A:79:93:2D:6D:F2",
+        "nombre": "---",
+        "total": "1.07 GB",
+        "upload": "19.13 MB"
+
+    }
+]}
